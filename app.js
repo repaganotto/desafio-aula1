@@ -1,5 +1,5 @@
 var frutas = [];
-frutas.push("banana", "maça", "pêssego","jaca");
+frutas.push("banana", "maça", "pêssego","jaquinha");
 
 frutas.length = 3;
 console.log(Object.keys(frutas)); 
